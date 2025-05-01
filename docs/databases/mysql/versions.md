@@ -3,10 +3,10 @@ title: Version
 description: Supported MySQL Versions
 ---
 
-SchemaHero works various versions of Mysql.
+SchemaHero works with various versions of MySQL.
 
-| Mysql Version | Minimum SchemaHero Version |
+| MySQL Version | Minimum SchemaHero Version |
 |------------------|------------|
-| 8.0.x | 0.1.0 / v1alpha1 |
-| 5.7.x | 0.1.0 / v1alpha1 |
-| 5.6.x | 0.1.0 / v1alpha1 |
+| 9.3.0 | 0.1.0 / v1alpha1 |
+| 8.4.5 | 0.1.0 / v1alpha1 |
+| 8.0.31 | 0.1.0 / v1alpha1 |

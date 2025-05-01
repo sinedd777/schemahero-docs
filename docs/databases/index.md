@@ -17,7 +17,7 @@ Select a database on the left for more details.
 | Database | Supported Versions |
 |----------|--------------------|
 | [Postgresql](./postgres/versions) | 9.5 - 15.1 |
-| [Mysql](./mysql/versions) | 5.6 - 8.0 |
+| [Mysql](./mysql/versions) | 8.0 - 9.3 |
 | [Cockroachdb](./cockroachdb/versions) | v19.2 - v22.1 |
 | [Timescale](./timescale/versions) | 2.x |
 | [Cassandra](./cassandra/versions) | 3.x |
