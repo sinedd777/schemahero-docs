@@ -1,11 +1,11 @@
 ---
 title: Versions
-description: Supported Postgres Versions
+description: Supported PostgreSQL Versions
 ---
 
-SchemaHero works various versions of Postgres.
+SchemaHero works with various versions of PostgreSQL.
 
-| Postgres Version | Minimum SchemaHero Version |
+| PostgreSQL Version | Minimum SchemaHero Version |
 |------------------|------------|
 | 13-beta | 0.1.0 / v1alpha1 |
 | 12.x | 0.1.0 / v1alpha1 |

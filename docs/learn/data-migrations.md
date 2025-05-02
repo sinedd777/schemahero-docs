@@ -13,7 +13,7 @@ There are two types of migrations that have to be managed and deployed:
 A Schema migration can be expressed in SQL syntax, and alters the structure of the database. 
 These often are new tables, changing columns, altering indexed data and more. 
 These are commonly written and can always be expressed in an idempotent syntax. Different database engines enforce various rules on how these can be applied. 
-For example, MySQL will not allow a schema migration to be executed in a transaction, while Postgres will. 
+For example, MySQL will not allow a schema migration to be executed in a transaction, while PostgreSQL will. 
 Schema management is often unique to the database.
 SchemaHero is focused on handling schema migrations.
 

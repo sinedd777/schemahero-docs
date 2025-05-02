@@ -71,7 +71,7 @@ You can use any supported Postgres characters here.
 **Line 9:** We are defining a table schema.
 
 **Line 10:** This key indicates that the schema below should be mapped to a Postgres object.
-SchemaHero supports mysql and cockroachdb schemas also.
+SchemaHero supports MySQL and CockroachDB schemas also.
 
 **Line 11:** We are defining the `code` column as the primary key.
 Note that this is an array object, and composite keys can be defined by listing more than one column.
