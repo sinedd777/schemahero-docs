@@ -3,7 +3,7 @@ title: Constraints
 description: Supported MySQL Constraints in SchemaHero
 ---
 
-The goal of SchemaHero is to support all supported Mysql constraints. 
+The goal of SchemaHero is to support all supported MySQL constraints. 
 If there are any missing, [open an issue](https://github.com/schemahero/schemahero/issues/new) to report it.
 
 | Constraint Type | SchemaHero Version |

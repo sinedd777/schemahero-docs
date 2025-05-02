@@ -7,9 +7,9 @@ Starting in SchemaHero 0.12.0, it's possible to define and manage custom types f
 
 | Database | SchemaHero support for custom types? |
 |----------|--------------------------------------|
-| Postgresql | no |
-| Mysql | no |
-| Cockroachdb | no |
+| PostgreSQL | no |
+| MySQL | no |
+| CockroachDB | no |
 | Cassandra | **yes** |
 
 

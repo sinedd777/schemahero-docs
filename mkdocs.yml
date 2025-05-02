@@ -77,7 +77,7 @@ nav:
       - 'Migrating To SchemaHero': 'docs/advanced/migrating.md'
   - Databases:
     - 'Supported Databases': 'databases/index.md'
-    - Postgresql:
+    - PostgreSQL:
       - 'Versions': 'databases/postgresql/versions.md'
       - 'Connecting': 'databases/postgresql/connecting.md'
       - 'Column Types': 'databases/postgresql/column-types.md'

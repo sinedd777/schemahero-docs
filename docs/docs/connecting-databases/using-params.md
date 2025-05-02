@@ -16,9 +16,9 @@ The following fields are supported:
 | `password` | The password to use when onnecting to the database |
 | `dbname` | The name of the database to connect to |
 
-## Postgresql and CockroachDB
+## PostgreSQL and CockroachDB
 
-In addition to the fields above, Postgresql and CockroachDB connections support the following parameters:
+In addition to the fields above, PostgreSQL and CockroachDB connections support the following parameters:
 
 | Field | Description |
 |-------|------------------|

@@ -28,6 +28,6 @@ These are expanding the footprint and core capabilities of the SchemaHero API.
 
 Some ideas include:
 
-* Migrating between database engines (Postgresql -> CockroachDB, for example)
+* Migrating between database engines (PostgreSQL -> CockroachDB, for example)
 * Automatically optimizing table schema based on load (indexes, keys, etc)
 * Managing database backups for disaster recovery

@@ -4,7 +4,7 @@ description: Supported MySQL Column Types
 ---
 
 The goal of SchemaHero is to support all column types. 
-Currently, there is support for the following Mysql types. 
+Currently, there is support for the following MySQL types. 
 If there are any missing, [open an issue](https://github.com/schemahero/schemahero/issues/new) to report it.
 
 | Column Type | Recognized Aliases | SchemaHero Version |
